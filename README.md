@@ -7,3 +7,5 @@ npm i movie-trailer
 Deploying on firebase
 
 npm install -g firebase-tools
+
+firebase deploy
