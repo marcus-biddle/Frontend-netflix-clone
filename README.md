@@ -1,11 +1,4 @@
-# Frontend-netflix-clone
+# Frontend Netflix Clone
 
-npm install react-scripts
-npm start
-npm i react-youtube
-npm i movie-trailer
-Deploying on firebase
-
-npm install -g firebase-tools
-
-firebase deploy
+To view go to:
+netflix-frontend-clone-35f40.web.app
